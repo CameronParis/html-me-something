@@ -84,6 +84,16 @@ img {
 	max-width: 100%;
 }
 
+#footnote_1,
+#footnote_2 {
+    background-color: inherit;
+    color: #9932CC;
+}
+
+.section_title {
+    background-color: #9932CC;
+    color: #B8860B;
+}
 @media screen and (max-width: 680px) {
 	nav ul li {
 		margin: 1em 0;
